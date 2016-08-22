@@ -264,7 +264,7 @@ var database = {
 		},
 		
 		{
-			headerText:"HDMI to DVI",
+			headerText:"HDMI to DVI",s
 			imageUrl:""
 		},
 		
